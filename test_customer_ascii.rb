@@ -15,7 +15,7 @@
 #
 # This test file is for testing the statment method of Customer class
 # in section 1.1 of Refactoring Ruby Edition. It is a test for
-# statment method suppoting ascii format.
+# statment method supporting ascii format.
 
 require 'test/unit'
 require_relative 'customer'
